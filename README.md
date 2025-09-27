@@ -1,4 +1,4 @@
-# codetalk
+# codetalk-js
 
 🚀 A fun and lightweight npm package that explains JavaScript code in plain English.
 
