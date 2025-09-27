@@ -1,6 +1,6 @@
 {
   "name": "codetalk-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple npm package that explains JavaScript code in plain English",
   "main": "index.js",
   "keywords": [
@@ -14,5 +14,13 @@
   "license": "MIT",
   "dependencies": {
     "acorn": "^8.15.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ck07860786/codetalk-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ck07860786/codetalk-js/issues"
+  },
+  "homepage": "https://github.com/Ck07860786/codetalk-js#readme"
 }
