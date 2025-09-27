@@ -14,9 +14,9 @@
 
 ## Installation
 ```bash
-npm install codetalk
+npm install codetalk-js
 ```
-const codetalk = require("codetalk");
+const codetalk = require("codetalk-js");
 
 const code = `
 function greet(name) {
